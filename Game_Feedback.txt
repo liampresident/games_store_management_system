@@ -1,0 +1,35 @@
+GameID,Rating,Comments
+chs01,4,rook
+mcn02,5,Spent hours building redstone farms
+mcn02,4,Great with friends but a bit grindy solo
+mcn02,3,Fun sandbox but feels repetitive after a while
+cod03,4,Fast paced matches and solid gunplay
+cod03,2,Too many campers in multiplayer
+cod03,5,Classic maps and intense action
+cod04,3,Good shooter but feels dated now
+cod04,1,Controls felt clunky on PC
+cod04,4,Campaign was surprisingly fun
+cod05,4,Enjoyed split screen multiplayer
+cod05,2,Story was forgettable
+cod05,3,Decent but not the best in the series
+ult06,5,Hilarious chaos with friends
+ult06,4,Great party game but needs more maps
+fnt08,3,Fun concept but too competitive
+fnt08,5,Building mechanics make it unique
+fnt08,1,Not my style at all
+grs09,4,Strong story and atmosphere
+grs09,3,Combat gets repetitive late game
+grs10,2,Not as good as the first one
+grs10,4,Improved graphics and smoother gameplay
+grs11,5,Best Gears campaign in my opinion
+grs11,4,Great co-op experience
+brd12,4,Loot system is addictive
+brd12,3,Humor is hit or miss
+brd13,5,Fantastic co-op shooter
+brd13,4,So many guns it gets overwhelming
+sie14,5,Tactical gameplay is very rewarding
+sie14,3,Steep learning curve for new players
+sot29,4,Sailing with friends is a blast
+sot29,2,Not much to do solo
+pok99,5,Nostalgic and relaxing RPG
+pok99,4,Simple but charming gameplay

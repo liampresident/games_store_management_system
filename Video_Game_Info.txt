@@ -1,0 +1,15 @@
+gameID,Name,Multiplayer,Genre,Platform,PurchaseDate,QuantityAvaliable
+mcn02,Minecraft,Multiplayer,Sandbox,Xbox,2025-06-15,2
+cod03,Call of Duty,Multiplayer,Shooter,Playstation,2025-11-25,3
+cod04,Call of Duty 2,Multiplayer,Shooter,PC,2025-02-12,1
+cod05,Call of Duty 3,Multiplayer,Shooter,Playstation,2025-02-11,4
+ult06,Ultimate Chicken,Multiplayer,Co-op,Playstation,2025-02-09,4
+fnt08,Fortnite,Multiplayer,Battle Royal,Playstation,2025-03-04,1
+grs09,Gears Of War,Solo,Shooter,Xbox,2025-01-04,2
+grs10,Gears Of War 2,Solo,Shooter,Playstation,2025-03-08,1
+grs11,Gears Of War 3,Solo,Shooter,Playstation,2025-11-23,1
+brd12,Borderlands,Solo,Shooter,PC,2025-08-22,1
+brd13,Borderlands 2,Multiplayer,Shooter,Xbox,2025-07-27,2
+sie14,Rainbow Six Siege,Multiplayer,Shooter,Xbox,2025-05-28,3
+sot29,Sea Of Theives,Multiplayer,Action,Xbox,2025-11-12,2
+pok99,Pokemon,Solo,RPG,Nintendo,2025-09-11,1

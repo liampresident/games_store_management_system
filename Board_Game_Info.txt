@@ -1,0 +1,21 @@
+gameID,Name,No.Players,Genre,PurchaseDate,QuantityAvaliable
+chs01,Chess,2,Strategy,2025-11-20,2
+chk02,Checkers,2,Strategy,2025-11-19,2
+trt03,Traitors,4-6,Deception,2025-10-18,2
+scb04,Scrabble,2,Strategy,2025-10-17,1
+mnp05,Monopoly,2-4,Strategy,2025-09-18,3
+crd06,Cards,2+,Logic,2025-12-10,3
+cky07,Cookie Clicker,1,Tycoon,2025-06-17,1
+art08,Articulate,4-20,Word,2025-12-13,1
+prp09,Pirates,2-4,Strategy,2025-05-06,2
+cnc10,Connect Four,2,Strategy,2025-08-18,1
+snk11,Snakes N Ladders,2,Comedy,2025-09-18,2
+cdn12,Codenames,2-4,Strategy,2025-07-08,3
+bsh13,Battleship,2,Strategy,2025-11-06,4
+pic14,Pictionary,2+,Skill,2025-06-06,3
+clu15,Cluedo,2-4,Deception,2025-12-15,2
+dmn16,Destroyerr,2,Strategy,2025-08-08,1
+dnd17,Dungeons and dragons,2+,Roleplay,2025-04-04,2
+jmj18,Jumanji,2-4,Survival,2025-04-13,2
+pir19,Pirates,2-6,Survival,2025-11-01,3
+tws17,Twister,2-4,Strategy,2025-11-28,2
